@@ -30,4 +30,7 @@ _MIT_
 
 ## contact info
 
-_  Michael Burton (Micbur1@gmail.com)   Woo Jin Kim (kimwoojin211@gmail.com)_
+_Michael Burton (Micbur1@gmail.com)_  
+_Woo Jin Kim (kimwoojin211@gmail.com)_
+_Vanessa Su (vnessa.su@gmail.com)_
+_Jamie Knutsen (knutsenjamie@yahoo.com)_
