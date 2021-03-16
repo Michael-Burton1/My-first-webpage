@@ -12,7 +12,7 @@
 
 ## Description 
 
-_This is a webpage for practicing some basic coding skills_
+_This is a webpage for practicing some basic` coding skills_
 
 ## Setup/installation requirements
 
